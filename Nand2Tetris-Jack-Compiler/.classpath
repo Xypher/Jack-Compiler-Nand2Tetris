@@ -1,0 +1,2 @@
+<classpathentry kind="lib" path="lib/junit-platform-console-standalone-1.7.0-M1.jar"/>
+<junit fork="true" printsummary="yes" dir="workingdir">

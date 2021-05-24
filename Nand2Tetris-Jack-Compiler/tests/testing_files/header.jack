@@ -1,0 +1,7 @@
+class SquareGame {
+    field Square square; 
+    field int direction; 
+    static String str, time;
+    static boolean chara;
+    static char boola, coola;
+}
